@@ -23,7 +23,7 @@ I am a 25 years old computer science engineer who graduated from ESPOL. I consid
 
 * 🌍  I'm based in Ecuador
 * ✉️  You can contact me at [cxcarvaj@gmail.com](mailto:cxcarvaj@gmail.com)
-* 🚀  I'm currently working on [ioet](http://www.ioet.com/)
+* 🚀  I'm currently working at [Thoughtworks](https://www.thoughtworks.com/)
 * 🧠  I'm learning Swift, Nest.js, Terraform and more!
 
 <a href="https://www.github.com/cxcarvaj" target="_blank" rel="noreferrer"><img
