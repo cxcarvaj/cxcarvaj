@@ -94,9 +94,15 @@ src="https://img.shields.io/github/followers/cxcarvaj?logo=github&style=for-the-
 #### AI Tools
 
 <div>
-            <a href="https://www.claude.com/product/claude-code" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Claude_AI_symbol.svg/1200px-Claude_AI_symbol.svg.png" width="36" height="36" alt="Claude Code" /></a>
-</div>
+            <a href="https://www.claude.com/product/claude-code" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claudecode-color.png" width="36" height="36" alt="Claude Code" />
+            </a>
+            <a href="https://www.claude.com/" target="_blank" rel="noreferrer"><img src="https://static.vecteezy.com/system/resources/thumbnails/067/941/712/small/claude-ai-logo-rounded-hd-free-png.png" width="36" height="36" alt="Claude" />
+            </a>
+            <a href="https://openai.com/codex/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/codex.webp" width="36" height="36" alt="Codex" />
+            </a>
+            <a href="https://chatgpt.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/3840px-ChatGPT_logo.svg.png" width="36" height="36" alt="ChatGPT OpenAI" />
 
+</div>
 
 <!-- <p align="left">
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
