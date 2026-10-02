@@ -19,7 +19,7 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 Software Developer
 ------------------
 
-I am a 27 years old computer science engineer who graduated from ESPOL. I consider myself a versatile software developer with solid knowledge and experience in web and mobile FrontEnd frameworks, technologies, good practices, and architectures. I'm constantly growing in areas of BackEnd, software infrastructure, DevOps, and AI. Outstanding for being a valuable team player and for ensuring the quality of the software developed. I seek to deepen and master knowledge in the Internet of Things, Data Science (Machine Learning and Deep Learning), Computer Security, Artificial Intelligence, Web and Mobile Development (FrontEnd and BackEnd), and User Experience Design (UI/UX), with the aim of facing new challenges and opportunities in the technological field.
+I am a 28 years old computer science engineer who graduated from ESPOL. I consider myself a versatile software developer with solid knowledge and experience in web and mobile FrontEnd frameworks, technologies, good practices, and architectures. I'm constantly growing in areas of BackEnd, software infrastructure, DevOps, and AI. Outstanding for being a valuable team player and for ensuring the quality of the software developed. I seek to deepen and master knowledge in the Internet of Things, Data Science (Machine Learning and Deep Learning), Computer Security, Artificial Intelligence, Web and Mobile Development (FrontEnd and BackEnd), and User Experience Design (UI/UX), with the aim of facing new challenges and opportunities in the technological field.
 
 * 🌍  I'm based in Ecuador
 * ✉️  You can contact me at [cxcarvaj@gmail.com](mailto:cxcarvaj@gmail.com)
