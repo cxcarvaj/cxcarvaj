@@ -39,8 +39,8 @@ src="https://img.shields.io/github/followers/cxcarvaj?logo=github&style=for-the-
 #### Tools
 
 <div>
-            <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
             <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+            <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
             <a href="https://www.swift.org/documentation/docc/" target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/6ac7f44d7a396d7107facd8a/6ac80822aa0ee18a024645bd_6ac80437be7024a492b78a92_DocC.png" width="36" height="36" alt="DocC" /></a>
             <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/6ac7f44d7a396d7107facd8a/6ac8f8aba587eaccebfac845_6ac80627e8e00523fe783a88_fd1895244b06ee24e2df6d75dc1a1bbc_swift.png" width="36" height="36" alt="Swift" /></a>
             <a href="https://developer.apple.com/documentation/charts" target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/6ac7f44d7a396d7107facd8a/6ac8081baa0ee18a02464481_6ac8063418befc6ba7ad7837_swift-charts.png" width="36" height="36" alt="Swift Charts" /></a>
@@ -65,11 +65,11 @@ src="https://img.shields.io/github/followers/cxcarvaj?logo=github&style=for-the-
 #### FrontEnd
 
 <div>
-            <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
             <a href="https://developer.apple.com/xcode/swiftui" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="36" height="36" alt="SwiftUI" /></a>
             <a href="https://developer.apple.com/documentation/xcode/localization" target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/6ac7f44d7a396d7107facd8a/6acbd0f1cdadbad71f3686ba_6acbcf021199ab5fccc4d084_translate.png" width="36" height="36" alt="Localization" /></a>
             <a href="https://developer.apple.com/documentation/SwiftData" target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/6ac7f44d7a396d7107facd8a/6ac8f8aba587eaccebfac83f_6ac80671113e74e48de98d9b_08b3ff3df9382b242601d66cea0e3c47_swiftdata.png" width="36" height="36" alt="SwiftData" /></a>
             <a href="https://developer.apple.com/documentation/uikit" target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/6ac7f44d7a396d7107facd8a/6ac80819aa0ee18a02464443_6ac806be3df515c8d60d4a88_uikit.png" width="36" height="36" alt="UIKit" /></a>
+            <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
             <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
             <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
             <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
