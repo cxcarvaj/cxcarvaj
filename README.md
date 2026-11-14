@@ -39,8 +39,8 @@ src="https://img.shields.io/github/followers/cxcarvaj?logo=github&style=for-the-
 #### Tools
 
 <div>
-            <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
             <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+            <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
             <a href="https://www.swift.org/documentation/docc/" target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/6ac7f44d7a396d7107facd8a/6ac80822aa0ee18a024645bd_6ac80437be7024a492b78a92_DocC.png" width="36" height="36" alt="DocC" /></a>
             <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/6ac7f44d7a396d7107facd8a/6ac8f8aba587eaccebfac845_6ac80627e8e00523fe783a88_fd1895244b06ee24e2df6d75dc1a1bbc_swift.png" width="36" height="36" alt="Swift" /></a>
             <a href="https://developer.apple.com/documentation/charts" target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/6ac7f44d7a396d7107facd8a/6ac8081baa0ee18a02464481_6ac8063418befc6ba7ad7837_swift-charts.png" width="36" height="36" alt="Swift Charts" /></a>
